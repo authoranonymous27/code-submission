@@ -4,7 +4,7 @@
 To reproduce the environment, clone the repository and navigate to the folder:
 ```
 git clone https://github.com/authoranonymous27/code-submission.git
-cd practice-code-submission
+cd code-submission
 ```
 Then, instantiate the environment:
 ```
