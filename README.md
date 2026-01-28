@@ -1,4 +1,7 @@
-# Anonymous Code Submission
+# FOMO-UDE: Forecasting and Modeling Tumor Dynamics using Universal Differential Equations
+
+## Abstract
+Reliable tumor growth forecasting is essential for treatment planning in oncology but is often hindered by patient heterogeneity and limited data. Existing mechanistic growth models struggle to adapt beyond fixed assumptions, while neural networks typically require large datasets and provide limited mechanistic insight. We investigate adaptive tumor growth models based on Universal Differential Equations (UDEs) that integrate mechanistic structure with data-driven learning. We evaluate the model on multi-species tumor datasets under multiple forecasting scenarios against Gompertz ODE, GRU, LSTM, and Neural ODE baselines. Across datasets, the proposed UDE model consistently outperforms all baselines, achieving up to 95% reduction in RMSE, and symbolic regression via SINDy effectively recovers the governing equations for interpretability.
 
 ## Running the code
 To reproduce the environment, clone the repository and navigate to the folder:
