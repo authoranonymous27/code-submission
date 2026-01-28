@@ -50,3 +50,5 @@ For instructions on installing Julia, see: https://julialang.org/install/
 ```
 
 Dataset Sources:
+Vaghi, C., Rodallec, A., Fanciullino, R., Ciccolini, J., Mochel, J. P., Mastri, M., and Poignard, C. Population modeling of tumor growth curves and the reduced gompertz model improve prediction of the age of experimental tumors. PLoS Computational Biology, 16(2), 2020. doi: https://doi.org/10.1371/journal.pcbi.1007178.
+Laleh, N. G., Loeffler, C. M. L., Grajek, J., Staňková, K., and Pearson, A. T. Classical mathematical models for prediction of response to chemotherapy and immunotherapy. PLoS Computational Biology, 18(2), 2022. doi: https://doi.org/10.1371/journal.pcbi.1009822.
